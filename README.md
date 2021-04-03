@@ -1,4 +1,4 @@
-<div align="center"><img src="name.jpeg" height="250"></div>
+<div align="center"><img src="https://github.com/Harshit1123/Harshit1123/blob/main/cache/name.jpeg" height="250"></div>
 
 <div align="center"><table>
 	<tr><h2>I solemly welcome U as visitor no.</h2></tr>
@@ -21,20 +21,19 @@ But at this point of time am searching for easy projects on ds and algo to stron
 <tr>
 <td>
 <Marquee scollamount>
-<scan><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
+<scan>
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973568-d1474d00-e540-11ea-9cea-82845add91a7.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973537-89c0c100-e540-11ea-81c3-cf040aeaedb1.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973303-744a9780-e53e-11ea-865f-e8582e7550a4.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973308-7ca2d280-e53e-11ea-840e-6f2de883472d.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973313-8af0ee80-e53e-11ea-8b0e-7e46a9b3c75e.png"/>
- <img height="40" width="40" src="https://camo.githubusercontent.com/23a8d7d55764c47141a4e040b0fa8a4a26dde28f9bbbfd7b11880adc8cc82bf6/68747470733a2f2f696d672e69636f6e73382e636f6d2f6d6174657269616c2d6f75746c696e65642f32352f6769746875622e706e67"/>
-  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973342-cf7c8a00-e53e-11ea-9684-00faacadbd14.png"/>
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973342-cf7c8a00-e53e-11ea-9684-00faacadbd14.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973347-dc00e280-e53e-11ea-8072-7dd69c270cd9.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90974102-b0cdc180-e545-11ea-93df-cfba3bceeeba.png" />
-  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973940-48caab80-e544-11ea-9369-9854cce9b94e.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973940-48caab80-e544-11ea-9369-9854cce9b94e.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973861-9b579800-e543-11ea-9a15-13c79ec872b9.png" />
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973903-e5d91480-e543-11ea-8444-d9449659d598.png" />
-  <img height="40" width="40" src="https://camo.githubusercontent.com/1d3ac37d20c0c66419bacaedb107d28f62ad1ae15bb268fbfa04aa0fd12cb59f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67" />
+ <img height="40" width="40" src="https://camo.githubusercontent.com/1d3ac37d20c0c66419bacaedb107d28f62ad1ae15bb268fbfa04aa0fd12cb59f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977455-5ba0a880-e563-11ea-8ba9-e975452f2d68.png" />
  <img height="40" width="40" src="https://camo.githubusercontent.com/fc3ceca631ddece7cc9575effb1274ea33b2cad1708ceb9333ab8de5eac4007b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32352f6769742e706e67" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90981071-9b27be80-e57c-11ea-8950-c3ebd08bb399.png" />
@@ -50,8 +49,7 @@ But at this point of time am searching for easy projects on ds and algo to stron
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1123&" alt="harshit1123" /></p>
-<hr>
-<br><br><br><br><br><br><br><br><br><br><hr>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
 <div align="center" >
 <h1>Contact me</h1>
 <table height=60 width=8% bgcolor="white">
@@ -63,5 +61,5 @@ But at this point of time am searching for easy projects on ds and algo to stron
 
 <div align="center">
 	<h2>THANK YOU FOR VISITING MY PROFILE 🙏</h2>
-	<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> 
+	<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="88px" /> 
 </div>
