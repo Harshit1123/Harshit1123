@@ -54,11 +54,11 @@ But at this point of time am searching for easy projects on ds and algo to stron
 <h1>Contact me</h1>
 <table height=60 width=8% bgcolor="white">
 <tr><td>
-<a href="http://www.github.com/harshit1123" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/harshit-sharma-401447202/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a></td></tr></table>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=harshit2neeraj@gmail.com&body=Respected%20Sir" title="Gmail"><i style="margin-right: 0.9em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="36" src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/192px.svg" /></a>
+
+<a href="https://www.linkedin.com/in/harshit-sharma-401447202/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a></td></tr></table>
 </div>
 <p align="left"><h2>📞-> +919891429599 </h2></p>
-<p align="right"><h2>📧->harshit2neeraj@gmail.com</h2></p>
-
 <div align="center">
 	<h2>THANK YOU FOR VISITING MY PROFILE 🙏</h2>
 	<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="88px" /> 
