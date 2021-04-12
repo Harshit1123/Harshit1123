@@ -52,10 +52,10 @@ But at this point of time am searching for easy projects on ds and algo to stron
 <br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
 <div align="center" >
 <h1>Contact me</h1>
-<table height=60 width=8% bgcolor="white">
+<table height=45 width=48% bgcolor="white">
 <tr><td>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=harshit2neeraj@gmail.com&body=Respected%20Sir" title="Gmail"><i style="margin-right: 0.9em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="36" src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/192px.svg" /></a>
-
+								&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/harshit-sharma-401447202/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a></td></tr></table>
 </div>
 <p align="left"><h2>📞-> +919891429599 </h2></p>
