@@ -42,14 +42,14 @@ But at this point of time am searching for easy projects on ds and algo to stron
 </scan></Marquee></td></tr></table></div>
  <hr>
 <div align="center">
-<img src="https://github-readme-stats1.vercel.app/api?username=harshit1123&show_icons=true&theme=blue-green)"> <br><br>
+	<img src="https://github-readme-stats1.vercel.app/api?username=harshit1123&show_icons=true&theme=blue-green)"> <br><br>
 </div>
 
 <p><img align="left" &nbsp src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit1123&show_icons=true&locale=en&layout=compact" alt="harshit1123" /></p>
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1123&" alt="harshit1123" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
 <div align="center" >
 <h1>Contact me</h1>
 <table  >
