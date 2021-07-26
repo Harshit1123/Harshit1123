@@ -9,11 +9,10 @@
 
  <hr>
 <div align="center">
- <h2> About Me </h2></div>
+	<h1><u> About Me</u> </h1></div>
 
 <div align="center">
-I am First year undergraduate student in Computer Science and Engineering Department of SRM NCR with specialization in the field of Data Analytics. I am always ready to learn new things and new technologies and have the dream of conquering the data world with new technologies and skills. I love to code and am much passionate to learn more of <u>Data Science</u>, so that I could implement them to analyse the huge data which the world produces....<br><br>
-But at this point of time am searching for easy projects on ds and algo to strong myself with the basics and <u>projects for beginners.</u></div>
+I am Second year undergraduate student in Computer Science and Engineering Department of SRM NCR with specialization in the field of Data Analytics. I am always ready to learn new things and new technologies and have the dream of conquering the data world with new technologies and skills. I love to code and am much passionate to learn more of <u>Data Science</u>, so that I could implement them to analyse the huge data which the world produces....<br>
 
 <div align="center">
 <h2> Programming Languages, Tecnologies and Tools</h2>
